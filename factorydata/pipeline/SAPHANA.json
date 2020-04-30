@@ -1,0 +1,7 @@
+{
+	"name": "SAPHANA",
+	"properties": {
+		"description": "ingest data from SAP HANA",
+		"annotations": []
+	}
+}
