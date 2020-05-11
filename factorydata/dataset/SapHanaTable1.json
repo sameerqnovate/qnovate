@@ -1,8 +1,0 @@
-{
-	"name": "SapHanaTable1",
-	"properties": {
-		"annotations": [],
-		"type": "SapHanaTable",
-		"schema": []
-	}
-}
