@@ -6,8 +6,8 @@
 		"annotations": [],
 		"type": "SapHana",
 		"typeProperties": {
-			"connectionString": "servernode=114.143.209.187;uid=ODBCUSER1",
-			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJlNDg2ZmYxMC04ZDRlLTRlYTUtYWZmYy1kZjYyOTkzNDM0MDEiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+			"connectionString": "Dsn=S/4HANA;servernode=114.143.209.187;uid=ODBCUSER1",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJiZDBjMDA5MS02MmJjLTQ0ZDMtYTI2MS02MWE5OTExMWY0ZGQiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
 		},
 		"connectVia": {
 			"referenceName": "integrationRuntime1",
